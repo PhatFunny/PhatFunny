@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hello, folks! 
 
-My name is Phát and I'm a web developer engineer. I'm from Viet Nam, living in Dong Nai province and currently working at Lozi. 
+My name is Phát and I'm a web developer engineer. I'm from Viet Nam, living in Dong Nai province. 
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@tanphat_74577)
