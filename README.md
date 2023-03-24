@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phatfunny" alt="phatfunny" /></a> </p>
 
-- 🔭 I’m currently working on Lozi [loship](loship.vn)
+- 🔭 I had worked on Lozi [loship](loship.vn)
 
 - 🌱 I’m currently learning **ReactJS, Redux Toolkit, Gatsby.js, Sanity.io**
 
