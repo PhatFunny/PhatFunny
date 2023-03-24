@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phát</h1>
 <h3 align="center">A passionate frontend developer from Ho Chi Minh, Viet Nam</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/94499350/227418335-0d53cc00-3751-4b12-a81f-b3d8f4414c24.png)
-" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phatfunny&label=Profile%20views&color=0e75b6&style=flat" alt="phatfunny" /> </p>
 
