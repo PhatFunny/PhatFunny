@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tphat.frontend@gmail.com**
 
-- 📄 Know about my experiences [https://bom.so/3D4w39](https://bom.so/3D4w39)
+- 📄 Know about my experiences [CV]((https://flowcv.com/resume/tbt5lc42m2))
 
 - ⚡ Fun fact **I am funny :))**
 
